@@ -1,5 +1,7 @@
 # Analyzing and Predicting Consumer Engagement 
-In this project, we will be using [Internet News and Consumer Engagement dataset](https://www.kaggle.com/szymonjanowski/internet-articles-data-with-users-engagement) from Kaggle to predict top article and popularity score. We will be exploring our data to discover patterns, such as correlation, distribution, mean, and time series analysis. We will use both text regression and text classification models to predict engagement score and top article based on the title. 
+In this project, we will be using [Internet News and Consumer Engagement dataset](https://www.kaggle.com/szymonjanowski/internet-articles-data-with-users-engagement) from Kaggle to predict top article and popularity score. We will be exploring our data to discover patterns, such as correlation, distribution, mean, and time series analysis. We will use both text regression and text classification models to predict engagement score and top article based on the title.
+
+[![View in Deepnote](https://deepnote.com/static/buttons/view-in-deepnote.svg)](https://deepnote.com/viewer/github/norvig/pytudes/blob/main/ipynb/Advent-2020.ipynb)
 
 ![news](https://images.unsplash.com/photo-1584714268709-c3dd9c92b378?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=799&q=80)
 
