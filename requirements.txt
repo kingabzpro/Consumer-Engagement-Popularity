@@ -1,0 +1,8 @@
+vaderSentiment
+wordcloud
+lightgbm
+imblearn
+numpy
+pandas
+matplotlib
+seaborn
