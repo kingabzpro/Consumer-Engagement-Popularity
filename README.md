@@ -1,0 +1,2 @@
+# Consumer-Engagement-Popularity
+In this project, we will be using Internet News and Consumer Engagement dataset from Kaggle to predict top article and popularity score. We will be exploring our data to discover patterns, such as correlation, distribution, mean, and time series analysis. We will use both text regression and text classification models to predict engagement score and top article based on the title.
